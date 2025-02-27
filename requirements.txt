@@ -1,0 +1,6 @@
+tensorflow==2.18.0
+tensorboard==2.18.0
+jax==0.5.1
+jaxlib==0.5.1
+flax==0.10.3
+flaxmodels==0.1.3
